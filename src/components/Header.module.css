@@ -1,0 +1,18 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 24px;
+  background: linear-gradient(90deg, #672280 1.18%, #a626d3 100%);
+  color: white;
+}
+
+.left_sec {
+  display: flex;
+  align-items: center;
+  column-gap: 12px;
+}
+
+.left_sec > img {
+  height: 3rem;
+}
