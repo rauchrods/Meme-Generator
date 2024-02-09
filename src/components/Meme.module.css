@@ -34,16 +34,17 @@
 .meme {
   position: relative;
   display: flex;
-  /* width: 90%; */
   margin: auto;
   justify-content: center;
   width: 60%;
   box-shadow: 6px 9px 13px -2px rgba(86, 86, 86, 0.62);
   border-radius: 6px;
+  
 }
 
 .meme > img {
   width: 100%;
+  height: 100%;
   border-radius: 6px;
 }
 
